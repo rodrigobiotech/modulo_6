@@ -1,0 +1,14 @@
+
+
+body {
+    background-color: rgb(221, 225, 226);
+}
+
+a {
+    text-decoration: none;
+  }
+
+.nav-link {
+    font-size: 20px;
+    margin: auto 50px;
+}
